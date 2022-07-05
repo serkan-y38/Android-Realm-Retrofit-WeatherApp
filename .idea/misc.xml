@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/drawable/item_backgraund.xml" value="0.198" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/drawable/selector_bottomnav.xml" value="0.198" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/layout/activity_daily_forecast.xml" value="0.228125" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/layout/activity_favorite.xml" value="0.2421875" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/layout/alert_list_view_item.xml" value="0.2421875" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/layout/drawer_nav_header.xml" value="0.2421875" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/layout/favorite_alert_dialog.xml" value="0.2421875" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/layout/list_view_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/layout/rcycl_view_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/layout/search_alert_dialog.xml" value="0.2421875" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/menu/bottom_nav_items.xml" value="0.2421875" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/menu/drawer_menu.xml" value="0.2421875" />
+        <entry key="..\:/Projeler/Android/Kurs/WebService/ForecastApp/app/src/main/res/menu/tool_bar_items.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
